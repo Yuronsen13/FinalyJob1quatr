@@ -3,3 +3,13 @@ C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\
 C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.AssemblyInfoInputs.cache
 C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.AssemblyInfo.cs
 C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\bin\Debug\net6.0\Tesk.exe
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\bin\Debug\net6.0\Tesk.deps.json
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\bin\Debug\net6.0\Tesk.runtimeconfig.json
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\bin\Debug\net6.0\Tesk.dll
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\bin\Debug\net6.0\Tesk.pdb
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.dll
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\refint\Tesk.dll
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.pdb
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.genruntimeconfig.cache
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\ref\Tesk.dll
