@@ -1,0 +1,5 @@
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.csproj.AssemblyReference.cache
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.AssemblyInfoInputs.cache
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.AssemblyInfo.cs
+C:\Users\Юрий\Desktop\Итоговая работа 1 четверть\Tesk\obj\Debug\net6.0\Tesk.csproj.CoreCompileInputs.cache
